@@ -17,7 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "br.edu.fatecitu.falaeinstein,
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "br.edu.fatecitu.falaeinstein",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
